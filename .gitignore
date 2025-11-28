@@ -1,18 +1,3 @@
 # Node modules
 node_modules/
 
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Runtime env files
-.env
-.env.local
-
-# OS files
-.DS_Store
-
-# Editor directories
-.vscode/
-.idea/
